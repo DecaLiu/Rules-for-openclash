@@ -1,0 +1,19 @@
+# Google 学术相关域名
+DOMAIN-SUFFIX,scholar.google.com
+DOMAIN-SUFFIX,scholar.l.google.com
+DOMAIN-SUFFIX,scholar.googleusercontent.com
+DOMAIN-SUFFIX,scholar.stanford.edu
+DOMAIN-SUFFIX,scholar.google.ca
+DOMAIN-SUFFIX,scholar.google.co.uk
+DOMAIN-SUFFIX,scholar.google.co.in
+DOMAIN-SUFFIX,scholar.google.com.hk
+DOMAIN-SUFFIX,scholar.google.com.sg
+DOMAIN-SUFFIX,scholar.google.com.br
+DOMAIN-SUFFIX,scholar.google.fr
+DOMAIN-SUFFIX,scholar.google.de
+DOMAIN-SUFFIX,scholar.google.it
+DOMAIN-SUFFIX,scholar.google.es
+DOMAIN-SUFFIX,scholar.google.ru
+DOMAIN-SUFFIX,scholar.google.com.au
+DOMAIN-SUFFIX,scholar.google.co.jp
+DOMAIN-SUFFIX,scholar.google.co.kr

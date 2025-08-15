@@ -1,0 +1,47 @@
+# Elsevier (ScienceDirect)
+DOMAIN-SUFFIX,sciencedirect.com
+DOMAIN-SUFFIX,elsevier.com
+DOMAIN-SUFFIX,publisher.elsevier.com
+DOMAIN-SUFFIX,journals.elsevier.com
+
+# Springer Nature
+DOMAIN-SUFFIX,springer.com
+DOMAIN-SUFFIX,springerlink.com
+DOMAIN-SUFFIX,journals.springer.com
+DOMAIN-SUFFIX,link.springer.com
+
+# Wiley
+DOMAIN-SUFFIX,wiley.com
+DOMAIN-SUFFIX,wileyonlinelibrary.com
+DOMAIN-SUFFIX,journals.wiley.com
+
+# Taylor & Francis
+DOMAIN-SUFFIX,tandfonline.com
+DOMAIN-SUFFIX,taylorandfrancis.com
+DOMAIN-SUFFIX,journals.tandfonline.com
+
+# IEEE
+DOMAIN-SUFFIX,ieee.org
+DOMAIN-SUFFIX,ieeexplore.ieee.org
+DOMAIN-SUFFIX,journals.ieee.org
+
+# Oxford Academic
+DOMAIN-SUFFIX,oup.com
+DOMAIN-SUFFIX,academic.oup.com
+DOMAIN-SUFFIX,journals.oxfordacademic.com
+
+# Cambridge University Press
+DOMAIN-SUFFIX,cambridge.org
+DOMAIN-SUFFIX,journals.cambridge.org
+
+# SAGE Publications
+DOMAIN-SUFFIX,sagepub.com
+DOMAIN-SUFFIX,journals.sagepub.com
+
+# MDPI
+DOMAIN-SUFFIX,mdpi.com
+DOMAIN-SUFFIX,journals.mdpi.com
+
+# Frontiers
+DOMAIN-SUFFIX,frontiersin.org
+DOMAIN-SUFFIX,journals.frontiersin.org
